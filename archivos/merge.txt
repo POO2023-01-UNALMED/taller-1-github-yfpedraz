@@ -1,3 +1,5 @@
 Yonnattanth Fernando Pedraza
 42 años
 Deseo convertirme en un cientifico de datos
+Lo podemos hacer ya que la carpeta no está vacia.
+Porque se pueden generar conflictos en las difererntes versiones del trabajo
